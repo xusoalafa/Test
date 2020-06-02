@@ -1,3 +1,5 @@
+"# Test" 
+"# Test 2" 
 echo "# Test" >> README.md
 git init
 git add README.md
